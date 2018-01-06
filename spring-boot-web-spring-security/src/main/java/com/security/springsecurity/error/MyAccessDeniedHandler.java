@@ -1,4 +1,4 @@
-package com.mkyong.springbootwebspringsecurity.error;
+package com.security.springsecurity.error;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.access.AccessDeniedException;

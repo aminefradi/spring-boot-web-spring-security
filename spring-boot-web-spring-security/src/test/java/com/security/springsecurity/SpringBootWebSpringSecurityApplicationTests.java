@@ -1,4 +1,4 @@
-package com.mkyong.springbootwebspringsecurity;
+package com.security.springsecurity;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
