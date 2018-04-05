@@ -7,7 +7,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.web.access.AccessDeniedHandler;
 
 
-   @Configuration
+@Configuration
 
 public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 
