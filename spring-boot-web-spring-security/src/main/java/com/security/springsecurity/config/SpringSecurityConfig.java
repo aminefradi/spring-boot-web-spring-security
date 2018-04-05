@@ -8,7 +8,6 @@ import org.springframework.security.web.access.AccessDeniedHandler;
 
 
 @Configuration
-
 public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Autowired
