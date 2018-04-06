@@ -12,6 +12,7 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     private AccessDeniedHandler accessDeniedHandler;
 
+
 //comment1
 //comment2
 
@@ -50,4 +51,6 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
    
         
     }
+
 }
+
