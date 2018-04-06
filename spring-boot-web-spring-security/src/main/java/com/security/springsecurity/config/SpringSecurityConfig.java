@@ -14,7 +14,6 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 
 
 //comment1
-//comment2
 
     // roles admin allow to access /admin/**
     // roles user allow to access /user/**
