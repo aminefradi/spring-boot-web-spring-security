@@ -13,6 +13,7 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
     private AccessDeniedHandler accessDeniedHandler;
 
 //comment1
+//comment2
 
     // roles admin allow to access /admin/**
     // roles user allow to access /user/**
