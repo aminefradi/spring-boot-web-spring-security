@@ -12,6 +12,8 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     private AccessDeniedHandler accessDeniedHandler;
 
+//comment1
+
     // roles admin allow to access /admin/**
     // roles user allow to access /user/**
     // custom 403 access denied handler
