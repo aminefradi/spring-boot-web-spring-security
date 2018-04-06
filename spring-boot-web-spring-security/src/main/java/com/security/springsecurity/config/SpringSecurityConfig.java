@@ -12,6 +12,7 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     private AccessDeniedHandler accessDeniedHandler;
 
+
 //comment1
 
     // roles admin allow to access /admin/**
@@ -49,4 +50,6 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
    
         
     }
+
 }
+
